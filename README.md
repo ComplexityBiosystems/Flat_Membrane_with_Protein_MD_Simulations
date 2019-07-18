@@ -1,5 +1,6 @@
 ﻿# Simulation code of a flat lipid membrane with additional protein in LAMMPS
 
+
 (LAMMPS version 30Jul16)
 
 1. To generate the initial configuration of a flat membrane with two lipid species on an ideal triangular lattice run:
