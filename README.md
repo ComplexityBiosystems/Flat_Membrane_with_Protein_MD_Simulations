@@ -1,4 +1,10 @@
 ﻿# Simulation code of a flat lipid membrane with additional protein in LAMMPS
+This repository includes scripts, initial configurations and LAMMPS code to reproduce some of the results in:
+
+Moritz Hoferer, Silvia Bonfanti, Alessandro Taloni, Caterina A. M. La Porta, and Stefano Zapperi,
+*Protein-driven lipid domain nucleation in biological membranes*,
+Phys. Rev. E 100, 042410 
+[link to publication](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042410)
 
 
 (LAMMPS version 30Jul16)
